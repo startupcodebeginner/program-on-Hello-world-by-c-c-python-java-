@@ -1,0 +1,7 @@
+#include<studio.h>
+#include<conio.h>
+Int main()
+{
+  Printf("Hello,World!");
+  Return o;
+}
